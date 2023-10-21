@@ -1,0 +1,4 @@
+
+
+The payback time is negative.
+Please check that new motor has an efficiency bigger than installed one.
